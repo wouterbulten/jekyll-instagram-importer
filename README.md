@@ -1,1 +1,3 @@
-# jekyll-instagram-importer
+# Instagram Post Import for Jekyll
+
+
