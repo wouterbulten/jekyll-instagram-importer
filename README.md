@@ -2,6 +2,8 @@
 
 Easy-to-use shell script to import/embed an Instagram post in a new Jekyll post.
 
+More info see: https://wouterbulten.nl/blog/tech/import-instagram-for-jekyll/
+
 ## Requirements
 
 - Linux/macOS
